@@ -1,0 +1,11 @@
+.line1{
+    background-color: black;
+    width: 1350px;
+    height: 1px;
+}
+.line2{
+    background-color: black;
+    width: 1350px;
+    height: 1px;
+    margin-top: 2px;
+}

@@ -1,0 +1,45 @@
+.interr{
+    font-family: 'Nunito', sans-serif;
+    font-size: 60px;
+    font-weight: bold; /* Add this line to make the text bold */
+    z-index: 1;
+    margin-top: 100px;
+    color: white;
+  }
+
+
+
+  .bg{
+    background-color: red;
+    padding: 20px 2px;
+    background-image: url("./nova1.jpg");
+    background-size: cover;
+    height: 620px;
+
+    
+  }
+
+  .wal{
+    background-color:  rgb(55, 55, 196);
+    position: relative;
+    left: 500px;
+    top: -60px;
+    color: white;
+    width: 180px;
+    height: 60px;
+    font-family: 'Nunito', sans-serif;
+    font-weight: bold; /* Add this line to make the text bold */
+    border-radius: 20px;
+  }
+
+.wal:hover{
+
+    background-color:rgb(28, 132, 229);
+    box-shadow: -1px -1px 26px -3px rgba(255,255,255,0.75);
+}
+
+.nov{
+    width: 180px;
+    position: relative;
+    left: 30px;
+}
